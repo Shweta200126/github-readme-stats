@@ -63,7 +63,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `aura` ![aura][aura_repo] |  `trans_bg` ![trans_bg][trans_bg_repo]| [Add your theme][add-theme] |
 
 
-[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
+[default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default&bg_color=ffffff00
 [default_repocard]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard
 [dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 [radical]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical
