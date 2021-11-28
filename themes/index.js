@@ -348,7 +348,7 @@ const themes = {
     text_color: "333",
     bg_color: "none",
     border_color: "e4e2e2",
-  }
+  },
 };
 
 module.exports = themes;
